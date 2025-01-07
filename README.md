@@ -1,3 +1,4 @@
+![logo](https://github.com/munawar123421/munawar123421/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Munawar Khan</h1>
 <h3 align="center">A passionate Web Developer& UI/UX designing enthusiast</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pvDM2MRviYQrujhsZSj9uVooLTtNkJyCeA&s">
