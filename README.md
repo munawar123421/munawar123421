@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com](https://github.com)
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS,C++,PYTHON,MICROSOFT AZURE SERVICES,DATA ANALYSIS AND VISUALIZATION,SQL,NEO4J,ASSEMBLY LANGUAGE(8086),CISCO PACKET TRACER,WIRESHARK,**
 
 - 📫 How to reach me **bscs22f13@namal.edu.pk**
 
