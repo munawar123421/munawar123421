@@ -1,36 +1,123 @@
-![logo](https://github.com/munawar123421/munawar123421/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
-<h1 align="center">Hi 👋, I'm Muhammad Munawar Khan</h1>
-<h3 align="center">A passionate Web Developer& UI/UX designing enthusiast</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_pvDM2MRviYQrujhsZSj9uVooLTtNkJyCeA&s">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=munawar123421&label=Profile%20views&color=0e75b6&style=flat" alt="munawar123421" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Munawar+Khan;AI+%2F+ML+Engineer;LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems+%C2%B7+Computer+Vision;Building+AI+that+ships+to+production" alt="Typing SVG" />
 
-- 🌱 I’m currently learning Web development& ui/ux designing **Bootstrap,prototypes,Delta paid course**
-
-- 👨‍💻 All of my projects are available at [https://github.com](https://github.com)
-
-- 💬 Ask me about **HTML,CSS,C++,PYTHON,MICROSOFT AZURE SERVICES,DATA ANALYSIS AND VISUALIZATION,SQL,NEO4J,ASSEMBLY LANGUAGE(8086),CISCO PACKET TRACER,WIRESHARK,**
-
-- 📫 How to reach me **bscs22f13@namal.edu.pk**
-
-- 📄 Know about my experiences [C++,PYTHON](C++,PYTHON)
-
-- ⚡ Fun fact **So funny called buddy**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad munawar khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad munawar khan" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad munawar khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad munawar khan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/munawir khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="munawir khan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/muhammad munawar khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muhammad munawar khan" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=munawar123421&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20Roles-success?style=flat" alt="open to work" />
+  <img src="https://img.shields.io/badge/Based%20in-Lahore%2C%20Pakistan-blue?style=flat" alt="location" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-munawar-khan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:munawarcoder786@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=munawar123421&show_icons=true&locale=en&layout=compact" alt="munawar123421" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=munawar123421&show_icons=true&locale=en" alt="munawar123421" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=munawar123421&" alt="munawar123421" /></p>
+## 👨‍💻 About Me
+
+I'm an **AI/ML Engineer** (B.S. Computer Science, Namal University, 2026) who builds end-to-end AI systems: from data and model training to **RAG pipelines, multi-agent LLM workflows and cloud-deployed inference APIs on Microsoft Azure**.
+
+- 🧠 **Now:** AI Engineer Intern at **Hubble42 Inc.**, working on AI agent evaluation, failure testing and robustness analysis, plus RL and SFT workflows
+- 🎓 **Also:** AI Trainee at **NetSol**, focused on NLP workflows and Azure AI services
+- 🔭 **Exploring:** agentic architectures (LangGraph), LLM evaluation, and production-grade RAG
+- 🎯 **Looking for:** AI Engineer / ML Engineer / GenAI Engineer roles
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🎨 **ColorIQ** *(Final Year Project)* | AI system that corrects color mismatch in e-commerce clothing images using a custom **U-Net**, served through a scalable inference API. Projected **30% reduction** in color-mismatch returns. | PyTorch · U-Net · FastAPI · Azure Blob Storage · Cosmos DB |
+| 📄 **DocMind** | RAG app for chatting with PDFs: document chunking, embeddings, vector search and context-aware answers. Cut document retrieval time by **60%**. | Python · LangChain · Vector DB · Embeddings |
+| 🕵️ **Multi-Agent Fake News Verifier** | LangGraph multi-agent system that normalizes claims, retrieves and ranks evidence, and returns **SUPPORT / REFUTE / NOT_ENOUGH_INFO** verdicts with explanations and source attribution. Live Streamlit UI with confidence gauge, evidence cards and agent trace. | LangGraph · LLMs · FAISS · Tavily · Wikipedia · Streamlit |
+
+👉 All repositories: [github.com/munawar123421?tab=repositories](https://github.com/munawar123421?tab=repositories)
+
+---
+
+## 💼 Experience
+
+- **AI Engineer Intern, Hubble42 Inc.** (Sep 2026 – Present): dataset preparation, model benchmarking, AI agent evaluation, failure testing and robustness analysis; RL and SFT workflows; Docker/WSL-based environments and agent orchestration.
+- **AI Trainee, NetSol** (Sep 2026 – Present): NLP pipelines (tokenization, NER, POS tagging, embeddings, evaluation), Python ML stack, Azure AI services and model deployment.
+- **Data Science Intern, 10Pearls Pakistan** (Jul – Sep 2026): applied statistics and ML workflows; Roboflow, Orange and Streamlit.
+- **Machine Learning Intern, Motive** (Jul – Sep 2024): CNN/YOLO computer vision, preprocessing and augmentation, Streamlit analytics dashboards.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**ML / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/CV-YOLOv8%20%7C%20U--Net%20%7C%20CNN-5C3EE8?style=flat)
+
+**GenAI / LLMs**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-0E75B6?style=flat)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-8A2BE2?style=flat)
+![FAISS](https://img.shields.io/badge/FAISS-ChromaDB%20%7C%20Pinecone-2E8B57?style=flat)
+
+**Backend / Cloud / Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20%2F%20WSL-FCC624?style=flat&logo=linux&logoColor=black)
+
+**Data**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat)
+
+---
+
+## 🎓 Certifications
+
+- Artificial Intelligence on Microsoft Azure (Coursera)
+- Microsoft Azure Machine Learning (Coursera)
+- Machine Learning Classification Bootcamp in Python (Udemy)
+- Generative AI: Prompt Engineering Basics (Coursera)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=munawar123421&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munawar123421&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munawar123421&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+<div align="center">
+
+📫 **Let's connect:** [munawarcoder786@gmail.com](mailto:munawarcoder786@gmail.com) · [LinkedIn](https://www.linkedin.com/in/muhammad-munawar-khan)
+
+*Engineering Intelligent Solutions Through AI Innovation*
+
+</div>
