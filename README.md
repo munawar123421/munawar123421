@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./cover_page.jpg" alt="Muhammad Munawar Khan - AI Engineer cover" width="100%" />
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Munawar+Khan;AI+%2F+ML+Engineer;LLMs+%C2%B7+RAG+%C2%B7+Multi-Agent+Systems+%C2%B7+Computer+Vision;Building+AI+that+ships+to+production" alt="Typing SVG" />
 
 <p>
