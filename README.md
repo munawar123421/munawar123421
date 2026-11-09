@@ -37,6 +37,19 @@ I'm an **AI/ML Engineer** (B.S. Computer Science, Namal University, 2026) who bu
 | 📄 **DocMind** | RAG app for chatting with PDFs: document chunking, embeddings, vector search and context-aware answers. Cut document retrieval time by **60%**. | Python · LangChain · Vector DB · Embeddings |
 | 🕵️ **Multi-Agent Fake News Verifier** | LangGraph multi-agent system that normalizes claims, retrieves and ranks evidence, and returns **SUPPORT / REFUTE / NOT_ENOUGH_INFO** verdicts with explanations and source attribution. Live Streamlit UI with confidence gauge, evidence cards and agent trace. | LangGraph · LLMs · FAISS · Tavily · Wikipedia · Streamlit |
 
+### 📚 More Work
+
+| Repository | Focus |
+|---|---|
+| [Pearl-AQI-Predictor](https://github.com/munawar123421/Pearl-AQI-Predictor) | Air Quality Index (AQI) prediction |
+| [Deep-Learning](https://github.com/munawar123421/Deep-Learning) | Deep learning experiments and notebooks |
+| [Machine-Learning](https://github.com/munawar123421/Machine-Learning) | Machine learning algorithms and coursework |
+| [Machine-Learning-Projects](https://github.com/munawar123421/Machine-Learning-Projects) | Applied machine learning projects |
+| [Image-Processing-Computer-Vision](https://github.com/munawar123421/Image-Processing-Computer-Vision) | Image processing and computer vision |
+| [Cloud-ML-Projects](https://github.com/munawar123421/Cloud-ML-Projects) | Machine learning on the cloud |
+| [manage-task-cloud](https://github.com/munawar123421/manage-task-cloud) | Cloud-based task management app |
+| [Software-Engineering](https://github.com/munawar123421/Software-Engineering) | Software engineering coursework and practices |
+
 👉 All repositories: [github.com/munawar123421?tab=repositories](https://github.com/munawar123421?tab=repositories)
 
 ---
